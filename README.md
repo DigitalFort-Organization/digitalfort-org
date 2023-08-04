@@ -15,6 +15,7 @@
 - Auditorías de seguridad informática 🔒🔍: Realizamos análisis exhaustivos para detectar vulnerabilidades y riesgos de seguridad en sistemas y aplicaciones.
 - Diseño web creativo y funcional 🎨🌐: Creamos sitios web atractivos y adaptados a las necesidades y metas de nuestros clientes.
 - Ciberseguridad avanzada 🛡️🚀: Implementamos medidas y protocolos de seguridad para proteger la información y los activos digitales de comunidades.
+- Desarrollo de aplicaciones Discord 📞🌐: Desarrollamos aplicaciones a medida, tanto bots como servidores de la plataforma misma. Adaptando los servicios anteriores
 
 ## Cómo Contribuir 🤝
 
