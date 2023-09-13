@@ -36,9 +36,9 @@
 
 Si tienes alguna pregunta o inquietud relacionada con el proyecto o el proceso de contribución, no dudes en contactarnos:
 
-- 📧 Correo Electrónico: [No puse]
+- 📧 Correo Electrónico: [support@digital-fort.org]
 - 🌐 Sitio Web: [https://www.digitalfort.org]
-- 💬 Slack: [Enlace al canal de Slack]
+
 
 ¡Esperamos contar con tu colaboración! 🤗
 
