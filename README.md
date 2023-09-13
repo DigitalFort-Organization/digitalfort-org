@@ -3,7 +3,7 @@
 <p align="center">
   <img style="  width: 200px;
         height: 200px; 
-        border-radius: 100px;" src="https://cdn.discordapp.com/attachments/1136054250972139604/1136068109820776580/WhatsApp_Image_2023-08-01_at_19.08.38_1.jpeg" class="circulo" alt="DigitalFort Organization Logo">
+        border-radius: 100px;" src="https://cdn.discordapp.com/attachments/1136019125974618283/1151334233151901778/pro.png" class="circulo" alt="DigitalFort Organization Logo">
 </p>
 
 ## Descripción 📝
